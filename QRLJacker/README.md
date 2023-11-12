@@ -13,7 +13,7 @@
 	* `sudo mv -f geckodriver /usr/local/share/geckodriver`
 	* `sudo ln -s /usr/local/share/geckodriver /usr/local/bin/geckodriver`
 	* `sudo ln -s /usr/local/share/geckodriver /usr/bin/geckodriver`
-3. Clone the repo with `git clone https://github.com/OWASP/QRLJacking` then do `cd QRLJacking/QRLJacker`
+3. Clone the repo with `git clone https://github.com/Umair8906/QRLJacking` then do `cd QRLJacking/QRLJacker`
 4. Install all the requirements with `pip install -r requirements.txt`
 5. Now you can run the framework with `python3 QrlJacker.py --help`
 
